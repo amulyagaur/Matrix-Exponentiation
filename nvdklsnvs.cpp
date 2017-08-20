@@ -35,7 +35,7 @@ int main()
     cin.tie(NULL);
     
     int t;
-    cin>>t;
+    cin>>t ;
     while(t--)
     {
     	long long a,b,n;
